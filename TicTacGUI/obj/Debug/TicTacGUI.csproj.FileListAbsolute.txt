@@ -1,0 +1,14 @@
+D:\Learning\TicTacGUI\bin\Debug\TicTacGUI.exe.config
+D:\Learning\TicTacGUI\bin\Debug\TicTacGUI.exe
+D:\Learning\TicTacGUI\bin\Debug\TicTacGUI.pdb
+D:\Learning\TicTacGUI\bin\Debug\BoardLogic.dll
+D:\Learning\TicTacGUI\bin\Debug\BoardLogic.pdb
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.csproj.AssemblyReference.cache
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.csproj.SuggestedBindingRedirects.cache
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.Form1.resources
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.Properties.Resources.resources
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.csproj.GenerateResource.cache
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.csproj.CoreCompileInputs.cache
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.csproj.CopyComplete
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.exe
+D:\Learning\TicTacGUI\obj\Debug\TicTacGUI.pdb

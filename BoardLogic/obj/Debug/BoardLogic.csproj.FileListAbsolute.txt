@@ -1,0 +1,6 @@
+D:\Learning\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+D:\Learning\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+D:\Learning\BoardLogic\bin\Debug\BoardLogic.dll
+D:\Learning\BoardLogic\bin\Debug\BoardLogic.pdb
+D:\Learning\BoardLogic\obj\Debug\BoardLogic.dll
+D:\Learning\BoardLogic\obj\Debug\BoardLogic.pdb
